@@ -1,0 +1,122 @@
+[
+  {
+    "id": "001",
+    "category": "meeting",
+    "email": "Hi Alex, could we move tomorrow's 10 AM meeting to Friday afternoon?",
+    "reply": "Sure, Friday afternoon works for me. What time would you prefer?"
+  },
+  {
+    "id": "002",
+    "category": "meeting",
+    "email": "Are you available for a quick call at 3 PM today to discuss the project?",
+    "reply": "Yes, 3 PM works for me. Please send me the call details."
+  },
+  {
+    "id": "003",
+    "category": "rescheduling",
+    "email": "I won't be able to attend our meeting on Monday. Could we reschedule it to Wednesday?",
+    "reply": "No problem. Wednesday works for me. Please let me know what time suits you."
+  },
+  {
+    "id": "004",
+    "category": "leave",
+    "email": "I need to take tomorrow off for a personal appointment. Please let me know if you need anything from me before then.",
+    "reply": "Thanks for letting me know. Tomorrow is fine. Please make sure any urgent tasks are covered before you leave."
+  },
+  {
+    "id": "005",
+    "category": "follow_up",
+    "email": "Just checking in on the report I sent last week. Do you have an update?",
+    "reply": "Thanks for following up. I'm reviewing it and will send you an update shortly."
+  },
+  {
+    "id": "006",
+    "category": "information_request",
+    "email": "Could you send me the latest version of the project timeline?",
+    "reply": "Of course. I'll send you the latest project timeline shortly."
+  },
+  {
+    "id": "007",
+    "category": "thank_you",
+    "email": "Thanks for helping me prepare the presentation. It made a big difference.",
+    "reply": "You're very welcome! I'm glad I could help."
+  },
+  {
+    "id": "008",
+    "category": "project_update",
+    "email": "The testing phase is complete, and we found two minor issues that the team is fixing.",
+    "reply": "Thanks for the update. Please keep me posted once the issues are resolved."
+  },
+  {
+    "id": "009",
+    "category": "customer_question",
+    "email": "Could you confirm whether my order has shipped yet?",
+    "reply": "I'll check the shipping status and get back to you with an update."
+  },
+  {
+    "id": "010",
+    "category": "apology",
+    "email": "Sorry for the delay in getting back to you. I was waiting for the final numbers.",
+    "reply": "No worries, thanks for the update. Please send the final numbers when they're ready."
+  },
+  {
+    "id": "011",
+    "category": "meeting",
+    "email": "Can we have our one-to-one on Thursday instead of Tuesday?",
+    "reply": "Yes, Thursday works for me. What time would you like to meet?"
+  },
+  {
+    "id": "012",
+    "category": "information_request",
+    "email": "Please let me know which documents you need from my side to complete the application.",
+    "reply": "I'll send you a list of the required documents shortly."
+  },
+  {
+    "id": "013",
+    "category": "follow_up",
+    "email": "Have you had a chance to review the proposal I shared yesterday?",
+    "reply": "Yes, I'm reviewing the proposal now and will share my feedback soon."
+  },
+  {
+    "id": "014",
+    "category": "project_update",
+    "email": "We are ahead of schedule and expect to finish the first phase by Friday.",
+    "reply": "That's great news. Thanks for the update, and please keep me posted on the remaining work."
+  },
+  {
+    "id": "015",
+    "category": "customer_question",
+    "email": "I received the wrong item in my order. What should I do next?",
+    "reply": "I'm sorry about that. Please share your order number, and we'll help arrange the next steps."
+  },
+  {
+    "id": "016",
+    "category": "meeting",
+    "email": "Would Tuesday at 2 PM work for a discussion about the new design?",
+    "reply": "Yes, Tuesday at 2 PM works for me. Looking forward to discussing the new design."
+  },
+  {
+    "id": "017",
+    "category": "leave",
+    "email": "I'm feeling unwell and won't be able to work today.",
+    "reply": "Thanks for letting me know. Please take care and rest. We can catch up on the work when you're back."
+  },
+  {
+    "id": "018",
+    "category": "thank_you",
+    "email": "I really appreciate you sending those files so quickly.",
+    "reply": "You're welcome! Glad I could help."
+  },
+  {
+    "id": "019",
+    "category": "apology",
+    "email": "I apologize for missing the deadline. I'll have the revised document ready tomorrow.",
+    "reply": "Thanks for letting me know. Tomorrow is fine; please send the revised document when it's ready."
+  },
+  {
+    "id": "020",
+    "category": "information_request",
+    "email": "Can you confirm the deadline for submitting the final assignment?",
+    "reply": "The final assignment is due on Friday. Let me know if you have any other questions."
+  }
+]
